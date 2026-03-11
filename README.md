@@ -109,11 +109,11 @@ Production    : 8+ CPU cores, 16 GB RAM, 100 GB SSD NVMe
 
 ## 👤 Auteur
 
-**Jean-Yves Brou-Yao**
+**Brou Yao Jean Yves**
 
 Domaine : Cybersécurité | Outils : OpenVAS, Kali Linux, Pentesting
 
-Portfolio en ligne : [À remplir avec votre URL]
+Portfolio en ligne : [Portfolio](https://yao-jean-yves-portfolio.vercel.app)
 
 ## 📝 Licence
 
